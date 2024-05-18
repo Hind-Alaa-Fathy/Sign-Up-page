@@ -30,9 +30,9 @@ class _FormPageState extends State<FormPage> {
               textInApp(text: "Create Account ",fontSize: 30,color: Colors.amber.shade200),
               const SizedBox(height: 7,),
               textInApp(text: "Lets get stared and create your account",color: Colors.amber.shade100),
-              const SizedBox(height: 35,),
+              const SizedBox(height: 20,),
               Container(
-                margin: const EdgeInsets.all(10),
+                margin: const EdgeInsets.all(20),
                 padding: const EdgeInsets.all(25),
                 decoration: BoxDecoration(
                   color: Colors.white60,
